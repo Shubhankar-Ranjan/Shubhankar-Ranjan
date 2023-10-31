@@ -7,7 +7,7 @@
 
 <h1></h1>
 
-![Header](./github-header-image.png)
+<p align="center"><img src="./github-header-image2.png"></p>
 
 <!-- <h1 align="center">Hi 👋, I'm Shubhankar Ranjan</h1> -->
 <h1 align="center">Web Development || Open Source || Dev Ops</h1>
