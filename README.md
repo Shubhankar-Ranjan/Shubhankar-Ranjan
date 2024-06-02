@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **shubhankar515@gmail.com**
 
-- 📄 Know about my experiences -> [My Resume](https://drive.google.com/file/d/1jx-wTztMpTRrpi_cBk0JFOF8AX0CpPRB/view)
+- 📄 Know about my experiences -> [My Resume](https://drive.google.com/file/d/1sg5DbQvPocVhmHsJE3GJVx7756Pf0GNj/view)
 
 - ⚡ Fun fact **I can code 🙂**
 
@@ -37,7 +37,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
 </a>
 <h3 align="left">Coding Profiles:</h3>
-<a href="https://www.codechef.com/users/shubhankar515" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhankar515" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sranjan515" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shubhankar515" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shubhankar515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shubhankar515" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shubhankar-ranjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubhankar-ranjan" height="30" width="40" /></a>
 </p>
