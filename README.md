@@ -50,3 +50,5 @@
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shubhankar-ranjan&show_icons=true&locale=en" alt="shubhankar-ranjan" /></p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankar-ranjan&" alt="shubhankar-ranjan" /></p>
+
+[![An image of @shubhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhu)](https://holopin.io/@shubhu)
