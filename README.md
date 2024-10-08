@@ -12,6 +12,8 @@
 <!-- <h1 align="center">Hi 👋, I'm Shubhankar Ranjan</h1> -->
 <h1 align="center">Web Development || Open Source || Dev Ops</h1>
 
+[![An image of @shubhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhu)](https://holopin.io/@shubhu)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhankar-ranjan&label=Profile%20views&color=0e75b6&style=flat" alt="shubhankar-ranjan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhankar-ranjan" alt="shubhankar-ranjan" /></a> </p>
@@ -51,4 +53,4 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankar-ranjan&" alt="shubhankar-ranjan" /></p>
 
-[![An image of @shubhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shubhu)](https://holopin.io/@shubhu)
+
