@@ -24,9 +24,9 @@
 
 - 💬 Ask me about **Development and DSA**
 
-- 📫 How to reach me **shubhankar515@gmail.com**
+- 📫 How to reach me **work.shubhankar515@gmail.com**
 
-- 📄 Know about my experiences -> [My Resume](https://drive.google.com/file/d/1sg5DbQvPocVhmHsJE3GJVx7756Pf0GNj/view)
+- 📄 Know about my experiences -> My Resume (Link to be uploaded......)
 
 - ⚡ Fun fact **I can code 🙂**
 
