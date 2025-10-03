@@ -49,8 +49,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhankar-ranjan&show_icons=true&locale=en&layout=compact" alt="shubhankar-ranjan" /></p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shubhankar-ranjan&show_icons=true&locale=en" alt="shubhankar-ranjan" /></p>
+<!-- <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=shubhankar-ranjan&show_icons=true&locale=en" alt="shubhankar-ranjan" /></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankar-ranjan&" alt="shubhankar-ranjan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhankar-ranjan&" alt="shubhankar-ranjan" /></p> -->
 
 
